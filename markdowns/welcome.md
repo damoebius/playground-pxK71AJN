@@ -16,4 +16,4 @@ This *mandatory* file describes both the table of content and the programming pr
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["HelloWorld.hx"], "command": "tail HelloWorld.hx"})
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["HelloWorld.hx"], "command": "haxe -main HelloWord.hx --interp"})
+@[Luke, how many stars are there in these galaxies?]({"stubs": ["HelloWorld.hx"], "command": "haxe -main HelloWorld.hx --interp"})
