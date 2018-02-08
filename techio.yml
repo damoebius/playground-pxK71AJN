@@ -2,3 +2,7 @@ title: Haxe Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+projects:
+  haxe:
+    root: /haxe-project
+    runner: haxe:3.4
